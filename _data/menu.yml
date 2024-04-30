@@ -4,16 +4,23 @@
 entries:
   - title: info
     entries:
-      - title: CV
+      - title: cv
+        url: https://mp.weixin.qq.com/s/22H8Vuv_S81I3GMjPj8aXg
       - title: studio
         url: https://mp.weixin.qq.com/s/22H8Vuv_S81I3GMjPj8aXg
-      - title: "here shows what i am doing right now in my studio <a href=studio'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>
-    post_studiomit: 5
-      show_more: trueCV
-      show_more_text:studioe..CV.
-      show_more_url: aCVrchive.htmstudioposts by category
-    post_list:CV
-      categorystudio      show_more: true
+      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+
+  - title: works
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+
+  - title: projects
+    post_list:
+      category: example2
+      show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
 
