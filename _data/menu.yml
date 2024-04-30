@@ -2,22 +2,22 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: info 资讯
     entries:
-      - title: cv
+      - title: about 简介
         url: https://mp.weixin.qq.com/s/22H8Vuv_S81I3GMjPj8aXg
-      - title: studio
+      - title: studio 工作室
         url: https://mp.weixin.qq.com/s/22H8Vuv_S81I3GMjPj8aXg
       - title: "here shows what i am doing rightnow in my <a href='https://studio pages'>studio</a> it need password ,you can <a href='http://mail'>contact me</a>"
 
-  - title: works
+  - title: works 作品
     post_list:
       limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: projects
+  - title: projects 项目
     post_list:
       category: example2
       show_more: true
