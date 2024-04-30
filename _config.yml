@@ -1,10 +1,10 @@
 title: this is Jin Yanan # name of the site
 author: Jin Yanan # name of site's author
 email: mail@jinyanan.com # email of site's author
-url: https://jinyanan.com # root address of the site
+url: https://jinyanan.github.io # root address of the site
 baseurl:  # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-this is Jin Yanan.Include works,studio info 
+ his is Jin Yanan.Include works,studio info.
 permalink: /:slug.html
 
 favicon: "2023草地100m-lawn100m-01" # name+extension of favicon (which must be put on the root folder)
