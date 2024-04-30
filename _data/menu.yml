@@ -9,9 +9,9 @@ entries:
         url: https://github.com/riggraz/no-style-please
       - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
-  - title: all posts
+  - title: works
     post_list:
-      limit: 5
+      limit: 100
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
