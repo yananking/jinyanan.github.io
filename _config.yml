@@ -4,7 +4,7 @@ email: mail@jinyanan.com # email of site's author
 url: https://github.com/yananking/jinyanan.github.io/main # root address of the site
 baseurl:  # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
- his is Jin Yanan.Include works,studio info.
+ this is Jin Yanan.Include works,studio info.
 permalink: /:slug.html
 
 favicon: "web logo.jpg" # name+extension of favicon (which must be put on the root folder)
