@@ -4,22 +4,16 @@
 entries:
   - title: info
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
-
-  - title: works
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
-
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
+      - title: CV
+      - title: studio
+        url: https://mp.weixin.qq.com/s/22H8Vuv_S81I3GMjPj8aXg
+      - title: "here shows what i am doing right now in my studio <a href=studio'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>
+    post_studiomit: 5
+      show_more: trueCV
+      show_more_text:studioe..CV.
+      show_more_url: aCVrchive.htmstudioposts by category
+    post_list:CV
+      categorystudio      show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
 
